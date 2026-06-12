@@ -1,4 +1,9 @@
 {
+  "name": "mern-blog-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.758.0",
     "bcrypt": "^5.1.1",

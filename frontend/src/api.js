@@ -1,6 +1,6 @@
 import axios from "axios"; 
 
-const URL = "http://localhost:3000"
+const URL = "https://mern-blog-backend-5ekw.onrender.com"
 
 export async function getPosts() {
 
